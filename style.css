@@ -10,7 +10,7 @@
 
 /* light mode*/
 body.light-mode {
-    background-color: #000;
+    background-color: #04405c;
     color: #fff;
 }
 
@@ -28,8 +28,8 @@ body.light-mode .game-image img {
 
 /* dark mode*/
 body.dark-mode {
-    background-color: #fff;
-    color: #000;
+    background-color: #000;
+    color: #fff;
 }
 
 body.dark-mode .navbar {
